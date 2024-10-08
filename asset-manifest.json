@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ojasdd/codlab.git/static/css/main.2839b8f6.css",
-    "main.js": "/ojasdd/codlab.git/static/js/main.c058159e.js",
-    "static/js/453.4b8d8fd0.chunk.js": "/ojasdd/codlab.git/static/js/453.4b8d8fd0.chunk.js",
-    "index.html": "/ojasdd/codlab.git/index.html",
-    "main.2839b8f6.css.map": "/ojasdd/codlab.git/static/css/main.2839b8f6.css.map",
-    "main.c058159e.js.map": "/ojasdd/codlab.git/static/js/main.c058159e.js.map",
-    "453.4b8d8fd0.chunk.js.map": "/ojasdd/codlab.git/static/js/453.4b8d8fd0.chunk.js.map"
+    "main.css": "/codlab/static/css/main.2839b8f6.css",
+    "main.js": "/codlab/static/js/main.d78aeb44.js",
+    "static/js/453.4b8d8fd0.chunk.js": "/codlab/static/js/453.4b8d8fd0.chunk.js",
+    "index.html": "/codlab/index.html",
+    "main.2839b8f6.css.map": "/codlab/static/css/main.2839b8f6.css.map",
+    "main.d78aeb44.js.map": "/codlab/static/js/main.d78aeb44.js.map",
+    "453.4b8d8fd0.chunk.js.map": "/codlab/static/js/453.4b8d8fd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2839b8f6.css",
-    "static/js/main.c058159e.js"
+    "static/js/main.d78aeb44.js"
   ]
 }
